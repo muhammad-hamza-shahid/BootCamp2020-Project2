@@ -8,6 +8,7 @@ ReactDOM.render(
  <div>
    Hello World
  </div>,
+ //Testing the dom and basic control system of React
   document.getElementById('root')
 );
 
