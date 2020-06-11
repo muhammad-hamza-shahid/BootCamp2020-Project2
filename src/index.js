@@ -5,9 +5,7 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
- <div>
-   Hello World
- </div>,
+<span>New Text</span>,
  //Testing the dom and basic control system of React
   document.getElementById('root')
 );
